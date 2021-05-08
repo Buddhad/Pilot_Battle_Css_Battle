@@ -1,7 +1,6 @@
 # Pilot_Battle_Css_Battle
-CSS Code Golfing Game Codes
-Partial non-optimal solution of [CssBattle](https://cssbattle.dev/).
-
+[CSSBattle](https://cssbattle.dev/) Golfing Game Codes are
+Partial non-optimal.
 
 # Battle #1 - Pilot Battle List 
 + [Target #1 - Simply Square](./1.Simply_Square.md)
